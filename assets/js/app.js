@@ -203,7 +203,7 @@ function renderHomeScreen(container) {
         <img class="home-logo" src="./assets/images/madrasati-logo.png" alt="منصة مدرسي" referrerPolicy="no-referrer" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22140%22 height=%22140%22 viewBox=%220%22><rect width=%22100%25%22 height=%22100%25%22 fill=%22%235B2596%22/><text x=%2250%25%22 y=%2255%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22sans-serif%22 font-size=%2224%22 font-weight=%22bold%22>مدرسي</text></svg>'">
       </div>
       <h1 class="home-title">منصة مدرسي</h1>
-      <p class="home-subtitle">الأسئلة الوزارية حول الاستفهام التصديقي والتصوري لقواعد اللغة العربية للصف السادس الإعدادي</p>
+      <p class="home-subtitle">الأسئلة الوزارية لخصائص وأحكام أدوات الاستفهام (الهمزة وهل) لقواعد اللغة العربية للصف السادس الإعدادي</p>
       
       <div class="home-steps-card">
         <h3 class="home-steps-title">طريقة العمل المختصرة في المنصة:</h3>
