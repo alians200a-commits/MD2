@@ -1,0 +1,6 @@
+{
+  "name": "مدرسي",
+  "description": "منصة تفاعلية للتقييم الذاتي في خصائص وأحكام أدوات الاستفهام الوزارية (الهمزة وهل) وفق الشواهد القرآنية والأبيات الشعرية والنصوص النحوية الكلاسيكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
